@@ -1,4 +1,4 @@
-# Cross-platform Parts-of-Speech tagger
+# Cross-platform Persian Parts-of-Speech tagger
 
 This is another persian POS tagger can be used in any operating system.
 
